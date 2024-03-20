@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Refactoring-Lab-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DesigniteJava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DesigniteJavaPlugin-2.0.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
